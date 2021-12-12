@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/Valmir-de-Oliveira-Filho">
-  <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=Valmir-de-Oliveira-Filho&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-de-Oliveira-Filho&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
   
