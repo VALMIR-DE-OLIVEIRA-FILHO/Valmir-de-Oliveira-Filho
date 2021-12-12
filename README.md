@@ -4,9 +4,9 @@
 - 🌱 estudando atualmente html, css , JavaScript, PHP
 - 😄 Pronouns: ele/dele
 <div align="center">
-  <a href="https://github.com/Valmir-de-Oliveira-Filho">
-  <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=Valmir-de-Oliveira-Filho&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valmir-de-Oliveira-Filho&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/VALMIR-DE-OLIVEIRA-FILHO">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VALMIR-DE-OLIVEIRA-FILHO&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img float="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALMIR-DE-OLIVEIRA-FILHO&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
   
   
