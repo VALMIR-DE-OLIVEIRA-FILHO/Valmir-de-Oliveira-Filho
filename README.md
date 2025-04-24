@@ -9,9 +9,8 @@
 Sou um desenvolvedor em formação, fascinado por tecnologia e apaixonado por construir soluções que realmente impactam a vida das pessoas. Estou trilhando minha jornada no mundo da programação com dedicação, aprendendo as bases sólidas do desenvolvimento web e explorando novas tecnologias todos os dias.
 
 - 🎯 Foco atual: Desenvolvimento Web
-- 🌱 Atualmente aprendendo: HTML | CSS | JavaScript | PHP
-- 🛠️ Objetivo próximo: Dominar React.js e banco de dados MySQL
-- 🧠 Estudando lógica de programação, APIs e orientação a objetos
+- 🌱 Atualmente aprendendo: React | PHP | JavaScript | Sql | I.A
+- 🛠️ Objetivo próximo: Dominar a criação de tecnologias com I.A
 - 💡 Interesses: Automação, Desenvolvimento Full Stack e Inteligência Artificial
 - 😄 Pronomes: ele/dele
 
@@ -23,7 +22,7 @@ Sou um desenvolvedor em formação, fascinado por tecnologia e apaixonado por co
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="IA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ia/ia-original.svg">
 </div>
 
 ---
