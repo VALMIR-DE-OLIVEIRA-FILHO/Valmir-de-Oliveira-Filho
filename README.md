@@ -1,30 +1,28 @@
-👨‍💻 Olá! Eu sou o Valmir de Oliveira Filho
+# 👨‍💻 Olá! Eu sou o Valmir de Oliveira Filho
 
-“Transformando ideias em soluções tecnológicas com foco em eficiência e inovação.”
+** “Transformando ideias em soluções tecnológicas com foco em eficiência e inovação.”
 
-🚀 Sobre mim
+## 🚀 Sobre mim
 
 Sou desenvolvedor em formação, com experiência prática no desenvolvimento de aplicações web e automações. Tenho atuado na criação de soluções voltadas à gestão de clientes e processos comerciais, com foco em performance, escalabilidade e usabilidade.
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento full stack, buscando evoluir continuamente através de projetos reais e desafios técnicos.
 
-💼 Experiência e Projetos em Destaque
-🔹 SagaCRM
+## 💼 Experiência e Projetos em Destaque
 
-Desenvolvimento de um sistema CRM próprio voltado para gestão de clientes e processos comerciais.
+SagaCRM 
+  Desenvolvimento de um sistema CRM próprio voltado para gestão de clientes e processos comerciais.
+  Estruturação de banco de dados relacional
+  Desenvolvimento de funcionalidades para controle de clientes e negociações
+  Integração com automações e ferramentas externas
+  Foco em organização e otimização de processos comerciais
 
-Estruturação de banco de dados relacional
-Desenvolvimento de funcionalidades para controle de clientes e negociações
-Integração com automações e ferramentas externas
-Foco em organização e otimização de processos comerciais
-🔹 BeeCodeBrazil
-
-Projeto voltado ao desenvolvimento de soluções tecnológicas e automações.
-
-Criação de scripts e ferramentas para automação de tarefas
-Desenvolvimento de soluções personalizadas para necessidades específicas
-Aplicação de boas práticas de programação e organização de código
-🧠 Competências Técnicas
+BeeCodeBrazil
+   Projeto voltado ao desenvolvimento de soluções tecnológicas e automações. 
+   Criação de scripts e ferramentas para automação de tarefas
+   Desenvolvimento de soluções personalizadas para necessidades específicas
+   Aplicação de boas práticas de programação e organização de código
+## 🧠 Competências Técnicas
 Desenvolvimento Web (Front-end e Back-end)
 Lógica de Programação e Estruturas de Dados
 Integração com APIs
